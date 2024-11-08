@@ -1,0 +1,162 @@
+[
+  {
+      "name": "Gong Cha",
+      "rating": 3.5,
+      "price": "$$",
+      "reviews": 194,
+      "address": "1501 Park St, Alameda, CA 94501",
+      "city": "Alameda"
+  },
+  {
+      "name": "Malaya Tea Room",
+      "rating": 4.5,
+      "price": "$$$",
+      "reviews": 318,
+      "address": "920 Central Ave, Alameda, CA 94501",
+      "city": "Alameda"
+  },
+  {
+      "name": "i-Tea",
+      "rating": 3.2,
+      "price": "$",
+      "reviews": 409,
+      "address": "1626 Park St, Alameda, CA 94501",
+      "city": "Alameda"
+  },
+  {
+      "name": "Mandro",
+      "rating": 4.1,
+      "price": "$$$",
+      "reviews": 77,
+      "address": "1321 Park St, Alameda, CA 94501",
+      "city": "Alameda"
+  },
+  {
+      "name": "Happy Lemon",
+      "rating": 3.7,
+      "price": "$$",
+      "reviews": 118,
+      "address": "2321 Santa Clara Ave, Alameda, CA 94501",
+      "city": "Alameda"
+  },
+  {
+      "name": "Plentea",
+      "rating": 3.9,
+      "price": "$",
+      "reviews": 204,
+      "address": "2430 Durant Ave, Berkeley, CA 94704",
+      "city": "Berkeley"
+  },
+  {
+      "name": "Sharetea",
+      "rating": 3.6,
+      "price": "$$",
+      "reviews": 45,
+      "address": "2328 Telegraph Ave, Berkeley, CA 94704",
+      "city": "Berkeley"
+  },
+  {
+      "name": "Organic Greens | Berkeley",
+      "rating": 4.2,
+      "price": "$$",
+      "reviews": 263,
+      "address": "2177 Kittredge St, Berkeley, CA 94704",
+      "city": "Berkeley"
+  },
+  {
+      "name": "Caravaggio Gelato Lab",
+      "rating": 4.5,
+      "price": "$$",
+      "reviews": 447,
+      "address": "1797 Shattuck Ave, Ste C, Berkeley, CA 94709",
+      "city": "Berkeley"
+  },
+  {
+      "name": "Humphry Slocombe - Berkeley",
+      "rating": 3.7,
+      "price": "$$",
+      "reviews": 113,
+      "address": "2948 College Ave, Berkeley, CA 94705",
+      "city": "Berkeley"
+  },
+  {
+      "name": "Teaspoon",
+      "rating": 4.3,
+      "price": "$$",
+      "reviews": 245,
+      "address": "25034 Hesperian Blvd, Hayward, CA 94545",
+      "city": "Hayward"
+  },
+  {
+      "name": "ONCE Tea",
+      "rating": 3.8,
+      "price": "$$",
+      "reviews": 120,
+      "address": "1081 B St, Hayward, CA 94541",
+      "city": "Hayward"
+  },
+  {
+      "name": "Gong Cha Hayward",
+      "rating": 4.1,
+      "price": "$$",
+      "reviews": 67,
+      "address": "20513 Hesperian Blvd, Hayward, CA 94541",
+      "city": "Hayward"
+  },
+  {
+      "name": "Tea Villa",
+      "rating": 3.7,
+      "price": "$$",
+      "reviews": 70,
+      "address": "29237 Mission Blvd, Hayward, CA 94544",
+      "city": "Hayward"
+  },
+  {
+      "name": "Boba Nation",
+      "rating": 4.4,
+      "price": "$$",
+      "reviews": 47,
+      "address": "1 Southland Dr, Shop 114, Hayward, CA 94545",
+      "city": "Hayward"
+  },
+  {
+      "name": "Tapioca Express",
+      "rating": 3.7,
+      "price": "$",
+      "reviews": 291,
+      "address": "129 W Joaquin Ave, San Leandro, CA 94577",
+      "city": "San Leandro"
+  },
+  {
+      "name": "Tea Oclock",
+      "rating": 4.5,
+      "price": "$$",
+      "reviews": 41,
+      "address": "1384 E 14th St, San Leandro, CA 94577",
+      "city": "San Leandro"
+  },
+  {
+      "name": "Hay Tea",
+      "rating": 3.7,
+      "price": "$",
+      "reviews": 178,
+      "address": "15251 Hesperian Blvd, San Leandro, CA 94578",
+      "city": "San Leandro"
+  },
+  {
+      "name": "i-Tea",
+      "rating": 4.1,
+      "price": "$$",
+      "reviews": 553,
+      "address": "177 Pelton Ctr Way, San Leandro, CA 94577",
+      "city": "San Leandro"
+  },
+  {
+      "name": "T4",
+      "rating": 3.1,
+      "price": "$",
+      "reviews": 673,
+      "address": "1443 E 14th St, Unit B, San Leandro, CA 94577",
+      "city": "San Leandro"
+  }
+]

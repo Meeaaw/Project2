@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cute Boba Spots Visualization</title>
+  <style>
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      background-color: #fff8e1;
+      font-family: Arial, sans-serif;
+      color: #333;
+      margin: 0;
+      height: 100vh;
+      
+    }
+
+    h1 {
+      color: #8b4513;
+      font-size: 28px;
+      margin-top: 40px;
+    }
+
+    #canvas-container {
+      position: relative;
+      width: 800px;
+      height: 800px;
+      background-image: url('border.jpg');
+      background-size: cover;
+      border: 10px solid #deb887;
+      box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+      margin-top: 350px;
+    }
+
+    #info {
+      margin-top: 10px;
+      font-size: 16px;
+      color: #8b4513;
+      text-align: center;
+    }
+
+    #footer {
+      font-size: 18px;
+      color: #8b4513;
+      margin-top: 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>Explore Boba Spots!</h1>
+  <div id="canvas-container"></div>
+  <div id="info">Click on each boba spot to view details.</div>
+  <div id="footer">
+    Created by Mia Dang <br>
+    <a href="https://keishaenrico.github.io/eastbayboba/" target="_blank">Keisha's Work</a> 
+
+  </div>
+  <h1>We based our data on popular boba places, the bigger the ball, the pricer </h1>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+  <script src="sketch.js"></script>
+</body>
+</html>
